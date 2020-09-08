@@ -1,11 +1,11 @@
 # Site settings
 author: Ghamdan Mohsin
-title: 
+title: Always be open to learn
 header-img: img/home-bg.png
 email: chemist2ever@gmail.com
 copyright_name: Ghamdan Mohsin
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Think outside the box 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  gman-code
